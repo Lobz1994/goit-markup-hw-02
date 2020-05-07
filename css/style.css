@@ -1,0 +1,39 @@
+/* Селекторы тегов */
+/* убарть точки у списка */
+
+
+/* Убрать подчеркивание ссылок */
+
+    font-size: 24px;
+}
+h2 {
+    font-size: 20px;
+}
+
+/* Селектор класса */
+/*  */
+
+.web-studio {
+    font-size: 26px;
+    color: #2196F3;
+}
+
+.nav-header {
+    color: #212121;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+/* Селектор потомка */
+.potomok a {
+    text-decoration: none;
+}
+
+/* Селектор ребенка */
+
+
+.menu > li {
+    border: 2px solid blue;
+    color: crimson;
+  }
